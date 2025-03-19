@@ -1,1 +1,1 @@
-# Diccionario-Rar-muri
+# Diccionario Rarámuri
