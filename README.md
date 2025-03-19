@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/951383274.svg)](https://doi.org/10.5281/zenodo.15052500)
 # Ralámuri Ra'icha
 El presente trabajo documenta verbos de movimiento en la lengua ralámuli (tarahumara, variedad central), específicamente del habla de la región de Ramuchéachi, perteneciente al municipio de Guachochi del estado de Chihuahua, México.
  
